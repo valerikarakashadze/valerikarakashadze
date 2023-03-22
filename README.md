@@ -1,6 +1,5 @@
 <h1 align="center">𝐻𝒾 👋, 𝐼'𝓂 𝒱𝒶𝓁𝑒𝓇𝒾 𝒦𝒶𝓇𝓀𝒶𝓈𝒽𝒹𝓏𝑒</h1>
-<h3 align="center">𝔸 𝔽𝕣𝕠𝕟𝕥-𝔼𝕟𝕕 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕗𝕣𝕠𝕞 𝔾𝕖𝕠𝕣𝕘𝕚𝕒</h3>\
-
+<h3 align="center">𝔸 𝔽𝕣𝕠𝕟𝕥-𝔼𝕟𝕕 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕗𝕣𝕠𝕞 𝔾𝕖𝕠𝕣𝕘𝕚𝕒</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valerikarakashadze&label=Profile%20views&color=0e75b6&style=flat" alt="valerikarakashadze" /> </p>
 
