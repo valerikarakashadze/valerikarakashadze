@@ -2,12 +2,6 @@
 <h1 align="center">𝐻𝒾 👋, 𝐼'𝓂 𝒱𝒶𝓁𝑒𝓇𝒾   𝒦𝒶𝓇𝓀𝒶𝓈𝒽𝒹𝓏𝑒</h1>
 <h3 align="center">𝔸 𝔽𝕣𝕠𝕟𝕥-𝔼𝕟𝕕 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕗𝕣𝕠𝕞 𝔾𝕖𝕠𝕣𝕘𝕚𝕒</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valerikarakashadze&label=Profile%20views&color=0e75b6&style=flat" alt="valerikarakashadze" /> </p>
-- 🔭 I’m currently working on [My Portfolio](https://valerikarkashadze.com/)
-- 🌱 I’m currently learning **Front-End Development**
-- 👨‍💻 All of my projects are available at [https://valerikarkashadze.com/](https://valerikarkashadze.com/)
-- 💬 Ask me about **Any topic**
-- 📫 How to reach me **valeriqarqashadze2002@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/valerikarkashadze/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/valerikarkashadze/" height="30" width="40" /></a>
